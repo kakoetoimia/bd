@@ -5,7 +5,7 @@
     --img_width:1fr;
     --img_height:1fr;
     --txt_size:32px;
-    --txt_color:white;
+    --txt_color:black;
     --back_color:black;
     --theme_label_img:url(C:\Users\Andrey python\Desktop\creativity\hb\img\moon.png)
 }
@@ -140,7 +140,7 @@ p{
 
 }
 body{
-    background-color: rgb(34, 34, 34);
+    background-color: #f8d8a6;
     padding: 0px;
     margin: 0px;
     
